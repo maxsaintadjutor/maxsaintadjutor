@@ -4,3 +4,6 @@
 
 - <b>Docker</b>
   - [Docker](https://github.com/maxsaintadjutor/Docker)
+ 
+- <b>Wazuh</b>
+  - [Wazuh](https://github.com/maxsaintadjutor/Wazuh)
