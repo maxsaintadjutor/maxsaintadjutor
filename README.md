@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis maxime <br/></h1>
+<h1>Bonjour, je suis maxime et voici mes projets personnels <br/></h1>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
